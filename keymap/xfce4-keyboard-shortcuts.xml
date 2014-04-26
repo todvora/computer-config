@@ -36,7 +36,7 @@
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Super&gt;i" type="string" value="chromium-browser"/>
       <property name="&lt;Super&gt;f" type="string" value="exo-open --launch FileManager"/>
-      <property name="&lt;Super&gt;j" type="string" value="~/bin/idea/bin/idea.sh"/>
+      <property name="&lt;Super&gt;j" type="string" value="idea"/>
       <property name="&lt;Alt&gt;F2" type="string" value="xfrun4 --disable-server"/>
       <property name="&lt;Super&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
     </property>
